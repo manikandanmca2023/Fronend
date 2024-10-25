@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "RVS HALL BOOKING",
+    "slug": "RVS HALL BOOKING",    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.ico",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/favicon.ico",
+      "resizeMode": "contain",
+      "backgroundColor": "#8a7f7f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/l1.png",
+        "backgroundColor": "#8a7f7f"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    }
+  }
+}
